@@ -1,3 +1,13 @@
 {
-  "blogs": [{ "id": 1, "title": "Hello World", "author": "Avinash Patel" }]
+  "blogs": [{ "id": 1, "title": "Hello World", "author": "Avinash Patel" }],
+  "users": [
+    {
+      "id": 1,
+      "name": "Avinash Patel",
+      "phone": 1234567890,
+      "location": "katni",
+      "email": "avinash@gmail.com",
+      "password": "avinash1234@"
+    }
+  ]
 }
