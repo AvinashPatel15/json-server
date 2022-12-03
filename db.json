@@ -481,5 +481,12 @@
     {
       "name": "Avinash Patel"
     }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Blog 1",
+      "author": "Avinash Patel"
+    }
   ]
 }
