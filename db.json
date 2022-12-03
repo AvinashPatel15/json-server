@@ -477,12 +477,8 @@
       ]
     }
   ],
-  "history": [
-    {
-      "name": "Avinash Patel"
-    }
-  ],
-  "blogs": [
+
+  "feeds": [
     {
       "id": 1,
       "title": "Blog 1",
