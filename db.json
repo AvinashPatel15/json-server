@@ -1,8 +1,4 @@
 {
-  "blogs": [
-    { "id": 1, "title": "Hello World", "author": "Avinash Patel" },
-    { "id": 2, "title": "Hello INDIA", "author": "Aditya Patel" }
-  ],
   "users": [
     {
       "id": 1,
@@ -494,15 +490,6 @@
         "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgxMjA3MTQ5Ml5BMl5BanBnXkFtZTgwOTA1NDU4OTE@.V1_SY1000_CR0,0,1498,1000_AL.jpg",
         "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMyNjg5ODYwNF5BMl5BanBnXkFtZTgwMTE1NDU4OTE@.V1_SY1000_CR0,0,1477,1000_AL.jpg"
       ]
-    }
-  ],
-  "watchlater": [],
-
-  "feeds": [
-    {
-      "id": 1,
-      "title": "Blog 1",
-      "author": "Avinash Patel"
     }
   ]
 }
